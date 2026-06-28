@@ -26,14 +26,14 @@ td {
 
 .progress-bar {
     position: relative;
-    background-color: rgb(12, 101, 173);
+    background-color: rgb(55, 30, 105);
     cursor: pointer;
     width: 200px;
 }
 
 .progress-fill {
     height: 30px;
-    background-color: rgb(46, 148, 231)
+    background-color: rgb(90, 45, 155)
 }
 
 .hidden {
