@@ -13,7 +13,7 @@ td {
 }
 
 .current {
-    background-color: orange !important;
+    background-color: rgb(40, 185, 60) !important;
 }
 
 .progress-text {
